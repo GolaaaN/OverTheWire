@@ -3,8 +3,10 @@
 
 OverTheWire's challenges walkthrogh.
 
+Table of contents:
+1. [Narnia](#Narnia)
 
-## Bandit
+## Narnia
 ### level 0->1
 We can connect using secure 
 shell to the server with narnia0 as the 
